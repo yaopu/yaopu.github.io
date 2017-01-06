@@ -6,7 +6,9 @@
 </head>
 <body>
 <h1><center>姚普的个人主页</center></h1>
-<p><center><a href="http://blog.csdn.net/jerry_iccas">我的CSDN博客</a></center><br>
+<p><font size =8><center>勤奋是一件大多数人能做到的事情</center>
+<font size =8><center>有具体可行的目标，并不断跟进与联系实际的人，却很少！</center></font>
+<center><a href="http://blog.csdn.net/jerry_iccas">我的CSDN博客</a></center><br>
 <center><img alt="" src="images/github_pic.png"></center>  </p>
 <h1><center>技能</center></h1>
 <p>Python,PyQt,Shell  </p>
@@ -14,11 +16,28 @@
 <p>Email:yaopu@iccas.ac.cn</p>
 <h1><center>当前计划</center></h1>
 <p>1.用PyQt给一个计算程序做界面<br>
-2.写一个完整的大数据分析程序</p>
+<a href="PyQt项目.pdf">目标计划书</a>
+2.写一个完整的大数据分析程序<br>
+先完成第一目标
+3.翻译一个模块的英文文档  </p>
 <h1><center><a href="个人简历V4.pdf">个人简历</a></center></h1>
 <p><center><img alt="" src="images/cute.jpg"></center><br>
 <center><img alt="" src="images/pythonset.png"></center><br>
 <center><img alt="" src="images/pythonlib.jpg"></center><br>
 <center><img alt="" src="images/bigdata.png"></center></p>
+<script type="text/javascript">
+ window.onload = function() {
+  var show = document.getElementById("show");
+  setInterval(function() {
+   var time = new Date();
+   // 程序计时的月从0开始取值后+1
+   var m = time.getMonth() + 1;
+   var t = time.getFullYear() + "-" + m + "-"
+     + time.getDate() + " " + time.getHours() + ":"
+     + time.getMinutes() + ":" + time.getSeconds();
+   show.innerHTML = t;
+  }, 1000);
+ };
+</script>
 </body>
 </html>
