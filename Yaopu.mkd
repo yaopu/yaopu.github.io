@@ -13,6 +13,11 @@ QQ : 1417511526
 先完成第一目标  
 3.翻译一个模块的英文文档  
 
+<font size = 6>目前接触到python模块</font>  
+[urllib](<https://docs.python.org/2/library/urllib.html>)  
+[urllib.request](<https://docs.python.org/3/library/urllib.request.html>)  
+[webbrowser](https://docs.python.org/3/library/webbrowser.html#module-webbrowser)
+
 
 #<center>[个人简历](个人简历V4.pdf)</center>
 
@@ -20,7 +25,9 @@ QQ : 1417511526
 <center>![](images/cute.jpg)</center>  
 <center>![](images/pythonset.png)</center>  
 <center>![](images/pythonlib.jpg)</center>  
-<center>![](images/bigdata.png)</center>
+<center>![](images/bigdata.png)</center>  
+
+
 <script language=JavaScript>
 <!--
 var caution = false
@@ -69,6 +76,6 @@ visits = 1
 else
 visits = parseInt(visits) + 1
 setCookie("counter", visits, now)
-document.write("您是第" + visits + "位访问本专题的！")
+document.write("朋友，您是第" + visits + "位访问我的主页的！")
 // -->
 </script>
