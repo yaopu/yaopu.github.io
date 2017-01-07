@@ -1,6 +1,4 @@
-#<center>姚普的个人主页</center>
-<font size =6><center>勤奋是大多数人能做到的一件事情</center>
-<font size =6><center>有具体可行的目标，并不断跟进与联系实际的人，却很少！</center></font>
+<font size =8><center>姚普的个人主页</center></font>
 <center>[我的CSDN博客](http://blog.csdn.net/jerry_iccas)</center>  
 <center>![](images/github_pic.png)</center>  
 #<center>技能</center>  
