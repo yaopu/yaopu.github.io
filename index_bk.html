@@ -1,0 +1,83 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="generator" content="ReText 5.3.1">
+</head>
+<body>
+<p><font size =8><center>姚普的个人主页</center></font>
+<center><a href="http://blog.csdn.net/jerry_iccas">我的CSDN博客</a></center><br>
+<center><img alt="" src="images/github_pic.png"></center>  </p>
+<h1><center>技能</center></h1>
+<p>Python,PyQt,Shell  </p>
+<h1><a href="https://github.com/yaopu/yaopu.github.io">Github</a></h1>
+<p>Email:<a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#121;&#97;&#111;&#112;&#117;&#64;&#105;&#99;&#99;&#97;&#115;&#46;&#97;&#99;&#46;&#99;&#110;">&#121;&#97;&#111;&#112;&#117;&#64;&#105;&#99;&#99;&#97;&#115;&#46;&#97;&#99;&#46;&#99;&#110;</a><br>
+QQ : 1417511526</p>
+<h1><center>当前计划</center></h1>
+<p>1.用PyQt给一个计算程序做界面<br>
+<a href="PyQtProcessing.html">目标计划书</a><br>
+2.写一个完整的大数据分析程序<br>
+先完成第一目标<br>
+3.翻译一个模块的英文文档  </p>
+<p><font size = 6>目前接触到python模块</font><br>
+<a href="https://docs.python.org/2/library/urllib.html">urllib</a><br>
+<a href="https://docs.python.org/3/library/urllib.request.html">urllib.request</a><br>
+<a href="https://docs.python.org/3/library/webbrowser.html#module-webbrowser">webbrowser</a></p>
+<h1><center><a href="个人简历V4.pdf">个人简历</a></center></h1>
+<p><center><img alt="" src="images/cute.jpg"></center><br>
+<center><img alt="" src="images/pythonset.png"></center><br>
+<center><img alt="" src="images/pythonlib.jpg"></center><br>
+<center><img alt="" src="images/bigdata.png"></center>  </p>
+<script language=JavaScript>
+<!--
+var caution = false
+function setCookie(name, value, expires, path, domain, secure) {
+var curCookie = name + "=" + escape(value) +
+((expires) ? "; expires=" + expires.toGMTString() : "") +
+((path) ? "; path=" + path : "") +
+((domain) ? "; domain=" + domain : "") +
+((secure) ? "; secure" : "")
+if (!caution || (name + "=" + escape(value)).length <= 4000)
+document.cookie = curCookie
+else
+if (confirm("Cookie exceeds 4KB and will be cut!"))
+document.cookie = curCookie
+}
+function getCookie(name) {
+var prefix = name + "="
+var cookieStartIndex = document.cookie.indexOf(prefix)
+if (cookieStartIndex == -1)
+return null
+var cookieEndIndex = document.cookie.indexOf(";", cookieStartIndex + prefix.length)
+if (cookieEndIndex == -1)
+cookieEndIndex = document.cookie.length
+return unescape(document.cookie.substring(cookieStartIndex + prefix.length, cookieEndIndex))
+}
+function deleteCookie(name, path, domain) {
+if (getCookie(name)) {
+document.cookie = name + "=" +
+((path) ? "; path=" + path : "") +
+((domain) ? "; domain=" + domain : "") +
+"; expires=Thu, 01-Jan-70 00:00:01 GMT"
+}
+}
+function fixDate(date) {
+var base = new Date(0)
+var skew = base.getTime()
+if (skew > 0)
+date.setTime(date.getTime() - skew)
+}
+var now = new Date()
+fixDate(now)
+now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000)
+var visits = getCookie("counter")
+if (!visits)
+visits = 1
+else
+visits = parseInt(visits) + 1
+setCookie("counter", visits, now)
+document.write("朋友，您是第" + visits + "位访问我的主页的！")
+// -->
+</script>
+</body>
+</html>
