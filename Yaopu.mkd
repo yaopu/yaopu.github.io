@@ -1,12 +1,5 @@
 <font size =8><center>姚普的个人主页</center></font>
-<!--retext
-<!--
-<center>[我的CSDN博客](http://blog.csdn.net/jerry_iccas)</center>  
-<center>![](images/github_pic.png)</center>  
-<!--
-#<center>技能</center>    
-#[Github](https://github.com/yaopu/yaopu.github.io)
--->
+<!-- Use retext Generate -->
 Name:Yao Pu
 Location: BeiJing HaiDian  Instititute of Chemistry Chinese Academy of Science  
 Email:<yaopu@iccas.ac.cn>  
@@ -17,16 +10,33 @@ QQ and WeChat: 1417511526
 ####2012-2015 BeiJing University of Chemical Technoloy          Study Polymer Science    
 ####2015-2020 University of Chinese Academy of Science          Computer Simulation Of Polymer
 #Project Experience  
-2016-2017 Develop MonteCarlo Simulation SoftWare  
-2017-2018 Develop Simulation SoftWare based On GPU  
-2018-2019 Study Polymer Physical Problem based on Graph theory 
+##2016-2017 Develop MonteCarlo Simulation SoftWare    
+1.Defining the framework,modules and interface  
+2.Operator of moving  
 
-
+##2017-2018 Develop Simulation SoftWare based On GPU  
+1.Defining the framework,modules and interface  
+  2.Coding for core algorithm and core modules  
+  3.Coding for post-process software  
+##2018-2019 Study Polymer Physical Problem based on Graph theory  
+1.Study Graph Theory  
+2.Coding for analysis Graph Theory work for difference architeture of moleculars  
 
 #Compute Skill  
-C++ CUDA  Python Shell Ubuntu  
+C++ CUDA  Python Shell Ubuntu  C++ API Design
 #Mathematical Course  
+####Mathematical analysis Higher algebra and analytic geometry numerical analysis   
+####Complex Variable Function and Integral Transform Partial differential equation equation  
+  
+#Award
+####2012 Beijing University Student Mathematics Competition (3rd Award)
+####2013 Second Prize of Beijing Higher Education Society Cup Mathematical Modeling Competition
+####2014 National Inspirational Scholarship
 
+#Language
+### English CET-6 474  
+
+#Paper  
 
 #<center>[CV now](个人简历Key.pdf)</center>
 #<center>[CV 2years ago](个人简历V4.pdf)</center>
