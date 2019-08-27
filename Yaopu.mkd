@@ -38,6 +38,6 @@ C++ CUDA  Python Shell Ubuntu  C++ API Design
 
 #Paper List  
 
-#<center>[CV now](个人简历Key.pdf)</center>
+#<center>[CV now](CV.pdf)</center>
 #<center>[CV 2years ago](个人简历V4.pdf)</center>
 
