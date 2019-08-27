@@ -1,4 +1,4 @@
-<font size =8><center>姚普的个人主页</center></font>
+<font size =8><center>Yao Pu Personal Page</center></font>
 <!-- Use retext Generate -->
 Name:Yao Pu
 Location: BeiJing HaiDian  Instititute of Chemistry Chinese Academy of Science  
@@ -20,7 +20,7 @@ QQ and WeChat: 1417511526
   3.Coding for post-process software  
 ##2018-2019 Study Polymer Physical Problem based on Graph theory  
 1.Study Graph Theory  
-2.Coding for analysis Graph Theory work for difference architeture of moleculars  
+2.Coding for analysis Graph Theory work for  moleculars  
 
 #Compute Skill  
 C++ CUDA  Python Shell Ubuntu  C++ API Design
@@ -36,12 +36,8 @@ C++ CUDA  Python Shell Ubuntu  C++ API Design
 #Language
 ### English CET-6 474  
 
-#Paper  
+#Paper List  
 
 #<center>[CV now](个人简历Key.pdf)</center>
 #<center>[CV 2years ago](个人简历V4.pdf)</center>
-
-
-
-
 
