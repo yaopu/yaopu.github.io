@@ -1,0 +1,11 @@
+*.o
+*.bak
+/build/
+/bin/
+/obj/
+*.cbp
+*.layout
+*.depend
+pull
+push
+*.mkd
