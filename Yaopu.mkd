@@ -1,11 +1,11 @@
-<font size =8><center>Yao Pu Personal Page</center></font>
+<font size =8><center>Yao Pu Personal Page</center></font>  
 <!-- Use retext Generate -->
-Name:Yao Pu
-Location: BeiJing HaiDian  Instititute of Chemistry Chinese Academy of Science  
+Name:Yao Pu  
+Location: BeiJing HaiDian  Instititute of Chemistry Chinese Academy of Science    
 Email:<yaopu@iccas.ac.cn>  
-QQ and WeChat: 1417511526
+QQ and WeChat: 1417511526  
 
-##Education Background
+##Education Background  
 ####2011-2012 BeiJing University of Chemical Technoloy          Study mathetical
 ####2012-2015 BeiJing University of Chemical Technoloy          Study Polymer Science    
 ####2015-2020 University of Chinese Academy of Science          Computer Simulation Of Polymer
@@ -21,9 +21,10 @@ QQ and WeChat: 1417511526
 ##2018-2019 Study Polymer Physical Problem based on Graph theory  
 1.Study Graph Theory  
 2.Coding for analysis Graph Theory work for  moleculars  
+###2019-2020  Visulization Molecular Simulation Process  
 
 #Compute Skill  
-C++ CUDA  Python Shell Ubuntu  C++ API Design
+C++ CUDA  Python Shell Ubuntu  C++ API Design OpenGL   
 #Mathematical Course  
 ####Mathematical analysis Higher algebra and analytic geometry numerical analysis   
 ####Complex Variable Function and Integral Transform Partial differential equation equation  
