@@ -1,13 +1,13 @@
 <font size =8><center>Yao Pu Personal Page</center></font>  
 <!-- Use retext Generate -->
 Name:Yao Pu  
-Location: BeiJing HaiDian  Instititute of Chemistry Chinese Academy of Science    
+Location: BeiJing HaiDian  Institute of Chemistry,Chinese Academy of Sciences    
 Email:<yaopu@iccas.ac.cn>  
 QQ and WeChat: 1417511526  
 
 ##Education Background  
-####2011-2012 BeiJing University of Chemical Technoloy          Study mathetical
-####2012-2015 BeiJing University of Chemical Technoloy          Study Polymer Science    
+####2011-2012 BeiJing University of Chemical Technoloy          (applied mathematics)  
+####2012-2015 BeiJing University of Chemical Technoloy          Polymer Science    
 ####2015-2020 University of Chinese Academy of Science          Computer Simulation Of Polymer
 #Project Experience  
 ##2016-2017 Develop MonteCarlo Simulation SoftWare    
@@ -26,7 +26,7 @@ QQ and WeChat: 1417511526
 #Compute Skill  
 C++ CUDA  Python Shell Ubuntu  C++ API Design OpenGL   
 #Mathematical Course  
-####Mathematical analysis Higher algebra and analytic geometry numerical analysis   
+####Mathematical analysis, Higher algebra and analytic geometry numerical analysis  ,Mathematical Software  
 ####Complex Variable Function and Integral Transform Partial differential equation equation  
   
 #Award
@@ -39,6 +39,7 @@ C++ CUDA  Python Shell Ubuntu  C++ API Design OpenGL
 
 #Paper List  
 
+
 #<center>[CV now](CV.pdf)</center>
-#<center>[CV 2years ago](个人简历V4.pdf)</center>
+
 
