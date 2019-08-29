@@ -4,42 +4,66 @@ Name:Yao Pu
 Location: BeiJing HaiDian  Institute of Chemistry,Chinese Academy of Sciences    
 Email:<yaopu@iccas.ac.cn>  
 QQ and WeChat: 1417511526  
+#
 
 ##Education Background  
-####2011-2012 BeiJing University of Chemical Technoloy          (applied mathematics)  
-####2012-2015 BeiJing University of Chemical Technoloy          Polymer Science    
-####2015-2020 University of Chinese Academy of Science          Computer Simulation Of Polymer
+2015-2020  Ph.D.,<a href="http://www.ucas.ac.cn/" target="_blank">UCAS</a>  and ( <a href="http://www.iccas.ac.cn/" target="_blank">ICCAS</a>)  (High Performance Computing for Polymer Particle System and Research on their Statistical Behavior )  
+2017-2018 M.S <a href="http://www.cnic.cas.cn/" target="_blank">Computer Network Information Center, Chinese Academy of Sciences</a>   (High Performance of Computing)  
+2012-2015 B.S, <a href="http://www.buct.edu.cn/" target="_blank">Bei Jing University of Chemical Technoloy </a>  (Polymer Science)  
+2011-2012 B,S. <a href="http://www.buct.edu.cn/" target="_blank">Bei Jing University of Chemical Technoloy </a>            (Applied Mathematics)  
+
+
 #Project Experience  
-##2016-2017 Develop MonteCarlo Simulation SoftWare    
-1.Defining the framework,modules and interface  
-2.Operator of moving  
+###2019-2020  Visulization Molecular Simulation Process By OpenGL
+##2018-2019 Study Polymer Physical Problem based on Graph theory  
+1.Study Based on Graph Theory   
+2.Coding for analysis Graph Theory work for  moleculars    
+3.Tracking dynamic migration path for particles on moleculars during simulation  
+
 
 ##2017-2018 Develop Simulation SoftWare based On GPU  
 1.Defining the framework,modules and interface  
-  2.Coding for core algorithm and core modules  
-  3.Coding for post-process software  
-##2018-2019 Study Polymer Physical Problem based on Graph theory  
-1.Study Graph Theory  
-2.Coding for analysis Graph Theory work for  moleculars  
-###2019-2020  Visulization Molecular Simulation Process  
+2.Coding for core algorithm and core modules  
+3.Coding for post-process software  
+4.Obtain an Authorized Software Copyright  2019SR0050680
+###2016-2017 Develop MonteCarlo Simulation SoftWare    
+1.Defining the framework,modules and interface  
+2.Operator of moving  
+
+##Internship experience
+2019-08-16-Present  Bei Jing Graph optimization company  
+Developers and architects for Privated Blas
+
 
 #Compute Skill  
-C++ CUDA  Python Shell Ubuntu  C++ API Design OpenGL   
+C++ CUDA  Python Shell Ubuntu  C++ API Design OpenGL Git  
 #Mathematical Course  
-####Mathematical analysis, Higher algebra and analytic geometry numerical analysis  ,Mathematical Software  
-####Complex Variable Function and Integral Transform Partial differential equation equation  
+Mathematical analysis, Higher algebra and analytic geometry numerical analysis  ,Mathematical Software  
+Complex Variable Function and Integral Transform Partial differential equation equation  
   
-#Award
-####2012 Beijing University Student Mathematics Competition (3rd Award)
-####2013 Second Prize of Beijing Higher Education Society Cup Mathematical Modeling Competition
-####2014 National Inspirational Scholarship
+#Honor and Awards
+2019 Youth Academic Forum Excellence Award of ICCAS  
+2017/2018 Merit Student of UCAS  
+2014 National Inspirational Scholarship  
+2013 Second Prize of Beijing Higher Education Society Cup Mathematical Modeling Competition  
+2012 Beijing University Student Physics Competition (3rd Award)  
+2012 Beijing University Student Mathematics Competition (3rd Award)  
+
+
+
+
+
+
 
 #Language
 ### English CET-6 474  
+#Focus area  
+Deep Learning, High performance computing ,Graph Computing 
+#Pubication and Conferences  
+1. Accelerare Equalibrate Polymer Melts with Million Particles By GPU (To be submitted) 
+2. Study many architecture polymers by Graph theory (To be submitted) 
 
-#Paper List  
 
-
-#<center>[CV now](CV.pdf)</center>
+#<center>[CV In Chinese](CV.pdf)</center>
 
 
