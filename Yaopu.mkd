@@ -37,7 +37,7 @@ Developers and architects for Privated Blas
 
 #Computer Skills  
 C++ CUDA  Python Shell Ubuntu  C++ API Design OpenGL Git  
-#Mathematical Course  
+#Mathematical Courses  
 Mathematical analysis, Higher algebra and analytic geometry numerical analysis  ,Mathematical Software  
 Complex Variable Function and Integral Transform Partial differential equation equation  
   
@@ -53,12 +53,10 @@ Complex Variable Function and Integral Transform Partial differential equation e
 #Language
 ##Toeic 550
 #Focus area  
-Deep Learning, High performance computing ,Graph Computing 
+Deep Learning(DL), High performance computing(HPC) ,Graph Computing 
 #Pubication and Conferences  
 1. Pu Yao,Yedi Li,Hongxia Guo*,Accelerare Equalibrate Polymer Melts with Million Particles By GPU (To be submitted) 
 2. Pu Yao,LuKun Feng,Hongxia Guo*,Study many architecture polymers by Graph theory (To be submitted) 
 
-
-#<center>[CV In Chinese](CV.pdf)</center>
 
 
