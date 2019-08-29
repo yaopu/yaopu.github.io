@@ -1,8 +1,0 @@
-#git remote add origin https://github.com/yaopu/Rheology
-#1) Add file
-git add . 
-git commit
-#git push
-git push origin master
-#2) synchronization
-#git pull 
